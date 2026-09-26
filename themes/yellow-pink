@@ -1,0 +1,26 @@
+#custom themes : yellow-pink 
+palette = 0=#000000
+palette = 1=#e5004c
+palette = 2=#00d900
+palette = 3=#e5c700
+palette = 4=#c70085
+palette = 5=#ff1493
+palette = 6=#ff66cc
+palette = 7=#bfbfbf
+palette = 8=#666666
+palette = 9=#ff1a75
+palette = 10=#26ff26
+palette = 11=#ffe600
+palette = 12=#ff007f
+palette = 13=#ff33aa
+palette = 14=#ffa6e5
+palette = 15=#ffffff
+
+background = #000000
+foreground = #ffd100
+cursor-color = #ff1493
+cursor-text = #000000
+selection-background = #ff007f
+selection-foreground = #000000
+bold-color = #ff2d87
+background-opacity = 0.90
